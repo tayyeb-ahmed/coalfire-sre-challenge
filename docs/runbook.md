@@ -398,10 +398,7 @@ fields @timestamp, @message
 
 ### Emergency Contacts
 
-- **Primary On-Call**: [Contact Information]
-- **Secondary On-Call**: [Contact Information]
-- **Management Escalation**: [Contact Information]
-- **AWS Support**: [Support Case Process]
+- **Primary On-Call Engineer**: tayyeb@hotmail.com
 
 ## Maintenance Procedures
 
@@ -645,4 +642,4 @@ Mgmt Instance (Public Subnet) --> NAT Gateway --> Internet
 | SSH | 22 | TCP | Your IP | Mgmt |
 | SSH | 22 | TCP | Mgmt | App Instances |
 
-This runbook should be updated regularly as the infrastructure evolves and new procedures are developed.
+This runbook will be updated regularly as the infrastructure evolves and new procedures are developed.
