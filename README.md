@@ -131,7 +131,7 @@ After successful deployment:
    ```bash
    # Get the URL
    terraform output website_url
-   # Example: http://coalfire-sre-challenge-alb-123456789.us-east-1.elb.amazonaws.com
+   # Example: http://coalfire-sre-challenge-alb-1627102278.us-east-1.elb.amazonaws.com/
    ```
 
 2. **Mgmt Access**:
